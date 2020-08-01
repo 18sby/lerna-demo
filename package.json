@@ -2,6 +2,7 @@
   "name": "root",
   "private": true,
   "devDependencies": {
+    "fs-extra": "^9.0.1",
     "lerna": "^3.22.1"
   }
 }
